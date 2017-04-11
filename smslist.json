@@ -1,0 +1,34 @@
+{
+    "respCode": "0000",
+    "respMsg": "ok",
+    "respResult": {
+        "pagesize": "20",
+        "page": "1",
+        "count": "1000",
+        "list": [
+            {
+                "extra": {
+                    "type": "4",
+                    "id": "xxx"
+                },
+                "display": {
+                    "title": "xxx通知",
+                    "icon": "http://xxxxxx.jpg",
+                    "time": "2017-4-11",
+                    "first": "你的会议需要参加！",
+                    "keywords": [
+                        {
+                            "name": "会议时间",
+                            "value": "今晚8点"
+                        },
+                        {
+                            "name": "会议地点",
+                            "value": "第3会议室"
+                        }
+                    ],
+                    "remark": "记得拿笔记本！"
+                }
+            }
+        ]
+    }
+}
